@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Secrets
+.env
+
+# Generated data zones (keep folder structure via .gitkeep)
+data/raw/*
+data/staging/*
+data/quarantine/*
+data/processed/*
+!data/**/.gitkeep
+
+# Logs (keep folder structure via .gitkeep)
+logs/*
+!logs/.gitkeep
+
+# Spark
+metastore_db/
+derby.log
+spark-warehouse/
