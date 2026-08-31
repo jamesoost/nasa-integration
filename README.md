@@ -4,7 +4,7 @@
 [![PySpark](https://img.shields.io/badge/Engine-PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
 [![Lint](https://img.shields.io/badge/Lint-Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=111111)](https://docs.astral.sh/ruff/)
 [![Tests](https://img.shields.io/badge/Tests-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/)
-[![CI](https://github.com/jamesoost/nasa-integration/actions/workflows/ci.yml/badge.svg)](https://github.com/jamesoost/nasa-integration/actions/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/jamesoost/nasa-integration/ci.yml?branch=main&style=for-the-badge&logo=githubactions&logoColor=white&label=CI)](https://github.com/jamesoost/nasa-integration/actions/workflows/ci.yml)
 
 ## Purpose
 

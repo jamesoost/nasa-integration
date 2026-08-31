@@ -2,7 +2,9 @@ import json
 import logging
 from datetime import datetime, timezone
 from pathlib import Path
+
 import requests
+
 from nasa_pipeline.config import NASA_INSIGHT_WEATHER_URL, RAW_DIR, REQUEST_PARAMS
 
 logger = logging.getLogger(__name__)

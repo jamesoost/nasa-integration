@@ -1,8 +1,10 @@
 import logging
 import sqlite3
 from pathlib import Path
+
 from pyspark.sql import DataFrame
 from pyspark.sql.types import DoubleType, StringType
+
 from nasa_pipeline.config import PROCESSED_DB_PATH, PROCESSED_TABLE
 
 logger = logging.getLogger(__name__)
